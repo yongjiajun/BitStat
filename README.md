@@ -11,7 +11,8 @@ BitStat
   <a href="#"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
   <a href="https://bitstat-7d80c.firebaseapp.com/" target="_blank"><img src="https://img.shields.io/badge/Preview-Live-green.svg"></a>
 
-</p>
+
+Live preview here: https://bitstat-7d80c.firebaseapp.com/
 
 
 ## Description
